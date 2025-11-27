@@ -7,7 +7,7 @@ title: Learning Vision
     background-color: white;
   }
 
-  .header-grid {
+  .header-grid {  
     display: grid;
     grid-template-columns: 1fr auto; /* flexible */
     align-items: center;
@@ -35,10 +35,10 @@ title: Learning Vision
 
 <div class="header-grid">
   <div>
-    <img src="./images/YelLogo-GDSClouders.svg" alt="Logo">
+    <img src="./images/Camila_only.png" alt="Logo">
   </div>
   <div>
-    <h1><b>GDSClouders Resource Center</b></h1>
+    <h1><b>GDClouders Resource Center</b></h1>
   </div>
 </div>
 

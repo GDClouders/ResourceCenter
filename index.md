@@ -37,10 +37,10 @@ title: Home
 
 <div class="header-grid">
   <div>
-    <img src="./images/YelLogo-GDSClouders.svg" alt="Logo">
+    <img src="./images/Camila_only.png" alt="Logo">
   </div>
   <div>
-    <h1><b>GDSClouders Resource Center</b></h1>
+    <h1><b>GDClouders Resource Center</b></h1>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ title: Home
 **We are the Center of Excellence (CoE) at [GD Services](https://www.gdservices.tech/) a cross-functional team of platform engineers, devops engineers and solution architects. Our purpose is simple: help product teams ship reliable, secure, and scalable solutions faster, with less toil and more confidence.**
 
 ## [Meet Camila!](./camila.md)
-**Camila, our mascot, is an agile, meticulous, and fundamental creature for her own ecosystem, immersed in the cloud. She's the visual embodiment of GDSClouders' philosophy and its approach to innovation and technology infrastructure management.**
+**Camila, our mascot, is an agile, meticulous, and fundamental creature for her own ecosystem, immersed in the cloud. She's the visual embodiment of GDClouders' philosophy and its approach to innovation and technology infrastructure management.**
 
 # Welcome onboard!
 **Here you’ll find a curated list of tools and resources that we use daily in our work.**
@@ -56,7 +56,7 @@ title: Home
 - [Cryptpad](https://cryptpad.fr) -- **Office Suite and Document sharing**
 - [Discord](https://discord.com) -- **Chat, Sharing, Meetings**
 - [Taiga](https://tree.taiga.io) -- **Project Management, Tracking activities**
-- [GDSClouders GitHub](https://github.com/GDSClouders) -- **Our official GitHub Organization**
+- [GDClouders GitHub](https://github.com/GDClouders) -- **Our official GitHub Organization**
 
 ## Tools
 

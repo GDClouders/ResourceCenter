@@ -35,10 +35,10 @@ title: Camila
 
 <div class="header-grid">
   <div>
-    <img src="./images/YelLogo-GDSClouders.svg" alt="Logo">
+    <img src="./images/Camila_only.png" alt="Logo">
   </div>
   <div>
-    <h1><b>GDSClouders Resource Center</b></h1>
+    <h1><b>GDClouders Resource Center</b></h1>
   </div>
 </div>
 
@@ -54,4 +54,4 @@ Her ability to "sift" through her environment in search of what's needed embodie
 
 ## A Symbol with a Soul
 
-The GDSClouders logo, with Camila as the star, is an excellent example of how an image can hold a deep meaning and an entire company philosophy. The use of the shrimp is no accident; it's an intelligent and fitting metaphor for the identity and services we provide.
+The GDClouders logo, with Camila as the star, is an excellent example of how an image can hold a deep meaning and an entire company philosophy. The use of the shrimp is no accident; it's an intelligent and fitting metaphor for the identity and services we provide.

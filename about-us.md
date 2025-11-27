@@ -34,10 +34,10 @@ title: About Us
 
 <div class="header-grid">
   <div>
-    <img src="./images/YelLogo-GDSClouders.svg" alt="Logo">
+    <img src="./images/Camila_only.png" alt="Logo">
   </div>
   <div>
-    <h1><b>GDSClouders Resource Center</b></h1>
+    <h1><b>GDClouders Resource Center</b></h1>
   </div>
 </div>
 
